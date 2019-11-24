@@ -5,7 +5,7 @@ In this project I analyzed (fictional) data on endangered species from several d
 ## Dependencies:
 
 Pandas  
-Scipy
+Scipy  
 Pyplot  
 Seaborn
 
